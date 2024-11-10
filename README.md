@@ -1,4 +1,4 @@
 # first-repo
 My first GitHub repository
-## Example
+# first-repo
  I'm learning GitHub

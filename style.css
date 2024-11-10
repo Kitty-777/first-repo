@@ -1,0 +1,44 @@
+@media (max-width: 600px) {
+  .pr {
+      font-size: 20px;
+  }
+  .btn-pr {
+      font-size: 24px;
+  }
+}
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000 ;
+  }
+  h1 {
+    color: purple;
+  }
+  .button{
+   padding: 5px 20px;
+   border-radius: 50px;
+   background-color: gold;
+   color: black;
+   border: 1px solid yellow;
+  }
+  .button:hover {
+    background-color: darkorange;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  .pr{
+    font-family: monospace;
+    font-style: italic;
+    font-size: 25px;
+    color: purple;
+  }
+ .btn-pr{
+  font-family: 'Courier New', Courier, monospace;
+  font-style: oblique;
+  font-size: 30px;
+  font-weight: bold;
+  color: yellow;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 5px;
+ }
